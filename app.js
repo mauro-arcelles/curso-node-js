@@ -13,4 +13,8 @@ server.listen();
 // mongoose
 // nodemon (ya está instalado de forma global)
 // cors
+// jsonwebtoken
 // bcryptjs
+// uuid
+// express-fileupload
+// cloudinary
